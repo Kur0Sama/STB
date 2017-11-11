@@ -29,4 +29,6 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 - Richest
 - gRichest
 
+
+
 Rejignez-nous sur le discord officiel, [♦ Sama Family ♦](https://discord.gg/EUnPFSW)!
