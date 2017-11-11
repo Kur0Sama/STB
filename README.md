@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/build-passed-brightgreen.svg)
 [![](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/EUnPFSW)
+[![](https://img.shields.io/badge/invite-Discord-blue.svg)](https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8)
 
 SamaTheBot est un bot discord de modération et d'ammusement.
 
@@ -30,5 +31,5 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 - gRichest
 
 
-
-Rejoignez-nous sur le discord officiel, [♦ Sama Family ♦](https://discord.gg/EUnPFSW)!
+Inviter le bot, [Discord](https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8)
+Rejoignez-nous sur le discord officiel, la [♦ Sama Family ♦](https://discord.gg/EUnPFSW) !
