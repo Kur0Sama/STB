@@ -31,5 +31,5 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 - gRichest
 
 
-Inviter le bot, [Discord](https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8)
-Rejoignez-nous sur le discord officiel, la [♦ Sama Family ♦](https://discord.gg/EUnPFSW) !
+Invitez le bot [SamaTheBot](https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8), et 
+rejoignez-nous sur le discord officiel, la [♦ Sama Family ♦](https://discord.gg/EUnPFSW) !
