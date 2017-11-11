@@ -31,4 +31,4 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 
 
 
-Rejignez-nous sur le discord officiel, [♦ Sama Family ♦](https://discord.gg/EUnPFSW)!
+Rejoignez-nous sur le discord officiel, [♦ Sama Family ♦](https://discord.gg/EUnPFSW)!
