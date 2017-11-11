@@ -7,10 +7,10 @@
 SamaTheBot est un bot discord de modération et d'ammusement.
 
 ## Commandes
-```Fun :```
+### Fun :
 - isPrime
 
-```Utilitaires / Modération :```
+### Utilitaires / Modération :
 - Help
 - Info
 - Warn
@@ -22,7 +22,7 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 - Purge
 - Invite
 
-```Economie :```
+### Economie :
 - Rice
 - gRice
 - Daily
@@ -30,6 +30,6 @@ SamaTheBot est un bot discord de modération et d'ammusement.
 - Richest
 - gRichest
 
-
+### Autres :
 Invitez le bot [SamaTheBot](https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8), et 
 rejoignez-nous sur le discord officiel, la [♦ Sama Family ♦](https://discord.gg/EUnPFSW) !
