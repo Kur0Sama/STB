@@ -1,0 +1,23 @@
+{
+  "name": "samathebot",
+  "version": "0.9.1",
+  "description": "Lama !",
+  "main": "node client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "Kur0",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^0.3.2",
+    "moment": "^2.18.1",
+    "enmap-level": "^1.0.0",
+    "fs": "^0.0.2",
+    "ms": "^2.0.0"
+  }
+}
